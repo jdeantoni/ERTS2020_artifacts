@@ -1,0 +1,159 @@
+@0.0ms (0 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@49.99872ms (2400 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@99.99744ms (4800 clock ticks): I2C_Storage2 STARTS RUNNING!
+@99.99744ms (4800 clock ticks): Supervisor STARTS RUNNING!
+@99.99744ms (4800 clock ticks): FFT2 STARTS RUNNING!
+@99.99744ms (4800 clock ticks): FFT1 STARTS RUNNING!
+@104.20566559999999ms (5002 clock ticks): Supervisor STOPS RUNNING!
+
+@190.0159688ms (9121 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@192.0159176ms (9217 clock ticks): I2C_Storage2 STOPS RUNNING!
+
+@199.99488ms (9600 clock ticks): Supervisor STARTS RUNNING!
+@204.59892879999998ms (9821 clock ticks): Supervisor STOPS RUNNING!
+
+@299.99232ms (14400 clock ticks): Supervisor STARTS RUNNING!
+@304.1797128ms (14601 clock ticks): Supervisor STOPS RUNNING!
+
+@399.98976ms (19200 clock ticks): Supervisor STARTS RUNNING!
+@403.34384079999995ms (19361 clock ticks): Supervisor STOPS RUNNING!
+
+@499.9872ms (24000 clock ticks): Supervisor STARTS RUNNING!
+@500.00803279999997ms (24001 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@503.3412808ms (24161 clock ticks): Supervisor STOPS RUNNING!
+
+@599.98464ms (28800 clock ticks): Supervisor STARTS RUNNING!
+@603.3387207999999ms (28961 clock ticks): Supervisor STOPS RUNNING!
+
+@650.4000159999999ms (31220 clock ticks): FFT1 STOPS RUNNING!
+
+@654.0040904ms (31393 clock ticks): FFT2 STOPS RUNNING!
+
+@699.98208ms (33600 clock ticks): Supervisor STARTS RUNNING!
+@703.3361607999999ms (33761 clock ticks): Supervisor STOPS RUNNING!
+
+@799.97952ms (38400 clock ticks): Supervisor STARTS RUNNING!
+@803.3336008ms (38561 clock ticks): Supervisor STOPS RUNNING!
+
+@899.97696ms (43200 clock ticks): Supervisor STARTS RUNNING!
+@899.9977928ms (43201 clock ticks): I2C_Storage1 STARTS RUNNING!
+@903.3310408ms (43361 clock ticks): Supervisor STOPS RUNNING!
+
+@992.0162703999999ms (47618 clock ticks): I2C_Storage1 STOPS RUNNING!
+
+@999.9744ms (48000 clock ticks): Supervisor STARTS RUNNING!
+@999.9952327999999ms (48001 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@1003.3284808ms (48161 clock ticks): Supervisor STOPS RUNNING!
+
+@1049.9939528ms (50401 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@1099.97184ms (52800 clock ticks): Supervisor STARTS RUNNING!
+@1099.9926728ms (52801 clock ticks): I2C_Storage2 STARTS RUNNING!
+@1099.9926728ms (52801 clock ticks): FFT2 STARTS RUNNING!
+@1099.9926728ms (52801 clock ticks): FFT1 STARTS RUNNING!
+@1104.0134031999999ms (52994 clock ticks): Supervisor STOPS RUNNING!
+
+@1190.0112015999998ms (57122 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@1192.0111504ms (57218 clock ticks): I2C_Storage2 STOPS RUNNING!
+
+@1199.96928ms (57600 clock ticks): Supervisor STARTS RUNNING!
+@1204.448332ms (57815 clock ticks): Supervisor STOPS RUNNING!
+
+@1299.96672ms (62400 clock ticks): Supervisor STARTS RUNNING!
+@1303.9874504ms (62593 clock ticks): Supervisor STOPS RUNNING!
+
+@1399.96416ms (67200 clock ticks): Supervisor STARTS RUNNING!
+@1403.3182408ms (67361 clock ticks): Supervisor STOPS RUNNING!
+
+@1499.9615999999999ms (72000 clock ticks): Supervisor STARTS RUNNING!
+@1500.0032655999998ms (72002 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@1503.3156807999999ms (72161 clock ticks): Supervisor STOPS RUNNING!
+
+@1599.95904ms (76800 clock ticks): Supervisor STARTS RUNNING!
+@1603.3131208ms (76961 clock ticks): Supervisor STOPS RUNNING!
+
+@1651.1660623999999ms (79258 clock ticks): FFT2 STOPS RUNNING!
+
+@1653.9784903999998ms (79393 clock ticks): FFT1 STOPS RUNNING!
+
+@1699.9564799999998ms (81600 clock ticks): Supervisor STARTS RUNNING!
+@1703.3105607999998ms (81761 clock ticks): Supervisor STOPS RUNNING!
+
+@1799.95392ms (86400 clock ticks): Supervisor STARTS RUNNING!
+@1803.3080008ms (86561 clock ticks): Supervisor STOPS RUNNING!
+
+@1899.9513599999998ms (91200 clock ticks): Supervisor STARTS RUNNING!
+@1899.9930255999998ms (91202 clock ticks): I2C_Storage1 STARTS RUNNING!
+@1903.3054407999998ms (91361 clock ticks): Supervisor STOPS RUNNING!
+
+@1992.0115031999999ms (95619 clock ticks): I2C_Storage1 STOPS RUNNING!
+
+@1999.9488ms (96000 clock ticks): Supervisor STARTS RUNNING!
+@1999.9904655999999ms (96002 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@2003.3028808ms (96161 clock ticks): Supervisor STOPS RUNNING!
+
+@2049.9891856ms (98402 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@2099.9462399999998ms (100800 clock ticks): Supervisor STARTS RUNNING!
+@2099.9879056ms (100802 clock ticks): I2C_Storage2 STARTS RUNNING!
+@2099.9879056ms (100802 clock ticks): FFT2 STARTS RUNNING!
+@2099.9879056ms (100802 clock ticks): FFT1 STARTS RUNNING!
+@2104.3836263999997ms (101013 clock ticks): Supervisor STOPS RUNNING!
+
+@2190.0064343999998ms (105123 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@2192.0063832ms (105219 clock ticks): I2C_Storage2 STOPS RUNNING!
+
+@2199.94368ms (105600 clock ticks): Supervisor STARTS RUNNING!
+@2205.2143784ms (105853 clock ticks): Supervisor STOPS RUNNING!
+
+@2299.94112ms (110400 clock ticks): Supervisor STARTS RUNNING!
+@2304.1493456ms (110602 clock ticks): Supervisor STOPS RUNNING!
+
+@2399.93856ms (115200 clock ticks): Supervisor STARTS RUNNING!
+@2403.2926408ms (115361 clock ticks): Supervisor STOPS RUNNING!
+
+@2499.9359999999997ms (120000 clock ticks): Supervisor STARTS RUNNING!
+@2499.9984984ms (120003 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@2503.2900808ms (120161 clock ticks): Supervisor STOPS RUNNING!
+
+@2599.93344ms (124800 clock ticks): Supervisor STARTS RUNNING!
+@2603.2875208ms (124961 clock ticks): Supervisor STOPS RUNNING!
+
+@2651.182128ms (127260 clock ticks): FFT2 STOPS RUNNING!
+
+@2653.9528904ms (127393 clock ticks): FFT1 STOPS RUNNING!
+
+@2699.93088ms (129600 clock ticks): Supervisor STARTS RUNNING!
+@2703.2849607999997ms (129761 clock ticks): Supervisor STOPS RUNNING!
+
+@2799.92832ms (134400 clock ticks): Supervisor STARTS RUNNING!
+@2803.2824008ms (134561 clock ticks): Supervisor STOPS RUNNING!
+
+@2899.9257599999996ms (139200 clock ticks): Supervisor STARTS RUNNING!
+@2899.9882583999997ms (139203 clock ticks): I2C_Storage1 STARTS RUNNING!
+@2903.2798408ms (139361 clock ticks): Supervisor STOPS RUNNING!
+
+@2992.006736ms (143620 clock ticks): I2C_Storage1 STOPS RUNNING!
+
+@2999.9231999999997ms (144000 clock ticks): Supervisor STARTS RUNNING!
+@2999.9856984ms (144003 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@3003.2772808ms (144161 clock ticks): Supervisor STOPS RUNNING!
+
+@3049.9844184ms (146403 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@3099.92064ms (148800 clock ticks): Supervisor STARTS RUNNING!
+@3099.9831384ms (148803 clock ticks): I2C_Storage2 STARTS RUNNING!
+@3099.9831384ms (148803 clock ticks): FFT2 STARTS RUNNING!
+@3099.9831384ms (148803 clock ticks): FFT1 STARTS RUNNING!
+@3104.8580135999996ms (149037 clock ticks): Supervisor STOPS RUNNING!
+
+
+/**********************
+
+*     simulation ends      *
+
+**********************/
+
