@@ -5,7 +5,7 @@ to play with results, either checkout the repos, install jupyter-notebook (see h
 
 OR
 
-go to binder: https://mybinder.org/v2/gh/jdeantoni/ERTS2020_artifacts/master,
+go to binder: https://mybinder.org/v2/gh/jdeantoni/ERTS2020_artifacts/master, please wait while loading... Then
 enter one folder, click the .ipynb file.
 
 then, run the two cells and play with the sliders ;)
