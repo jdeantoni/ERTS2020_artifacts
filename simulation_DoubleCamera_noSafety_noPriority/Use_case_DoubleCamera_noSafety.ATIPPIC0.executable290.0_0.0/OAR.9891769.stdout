@@ -1,0 +1,107 @@
+@0.0ms (0 clock ticks): SPW_payload_driver STARTS RUNNING!
+@0.0ms (0 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@0.0ms (0 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@1.2000000000000002ms (384 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@100.0ms (32000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@100.0ms (32000 clock ticks): Satellite Control COM STARTS RUNNING!
+@101.23125ms (32394 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@109.87812500000001ms (35161 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@110.0ms (35200 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@110.30000000000001ms (35296 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@200.0ms (64000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@200.0ms (64000 clock ticks): Satellite Control COM STARTS RUNNING!
+@200.0ms (64000 clock ticks): FFT1 STARTS RUNNING!
+@201.39375ms (64446 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@210.4ms (67328 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@290.0ms (92800 clock ticks): FFT2 STARTS RUNNING!
+@300.0ms (96000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@300.0ms (96000 clock ticks): Satellite Control COM STARTS RUNNING!
+@301.39375ms (96446 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@310.40000000000003ms (99328 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@400.0ms (128000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@400.0ms (128000 clock ticks): Satellite Control COM STARTS RUNNING!
+@401.3ms (128416 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@410.296875ms (131295 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@500.0ms (160000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@500.0ms (160000 clock ticks): Satellite Control COM STARTS RUNNING!
+@501.3ms (160416 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@510.296875ms (163295 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@565.5ms (180960 clock ticks): FFT1 STOPS RUNNING!
+
+@600.0ms (192000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@600.0ms (192000 clock ticks): Satellite Control COM STARTS RUNNING!
+@601.3000000000001ms (192416 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@610.296875ms (195295 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@655.5ms (209760 clock ticks): FFT2 STOPS RUNNING!
+
+@700.0ms (224000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@700.0ms (224000 clock ticks): Satellite Control COM STARTS RUNNING!
+@701.3000000000001ms (224416 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@710.296875ms (227295 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@800.0ms (256000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@800.0ms (256000 clock ticks): Satellite Control COM STARTS RUNNING!
+@801.3000000000001ms (256416 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@810.296875ms (259295 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@900.0ms (288000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@900.0ms (288000 clock ticks): Satellite Control COM STARTS RUNNING!
+@900.0ms (288000 clock ticks): I2C_Storage1 STARTS RUNNING!
+@901.25ms (288400 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@910.3000000000001ms (291296 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@990.3000000000001ms (316896 clock ticks): I2C_Storage1 STOPS RUNNING!
+
+@1000.0ms (320000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@1000.0ms (320000 clock ticks): Satellite Control COM STARTS RUNNING!
+@1000.0ms (320000 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@1000.0ms (320000 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@1001.3000000000001ms (320416 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@1010.296875ms (323295 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@1100.0ms (352000 clock ticks): I2C_Storage2 STARTS RUNNING!
+@1100.0ms (352000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@1100.0ms (352000 clock ticks): Satellite Control COM STARTS RUNNING!
+@1101.2625ms (352404 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@1109.8875ms (355164 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@1110.0ms (355200 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@1110.3ms (355296 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@1190.3ms (380896 clock ticks): I2C_Storage2 STOPS RUNNING!
+
+@1200.0ms (384000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@1200.0ms (384000 clock ticks): Satellite Control COM STARTS RUNNING!
+@1200.0ms (384000 clock ticks): FFT1 STARTS RUNNING!
+@1201.39375ms (384446 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@1210.4ms (387328 clock ticks): Satellite Control COM STOPS RUNNING!
+
+
+/**********************
+
+*     simulation ends      *
+
+**********************/
+
