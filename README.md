@@ -1,14 +1,13 @@
 # ERTS2020_artifacts
-This is the experiments results and artifacts decribed in the ERTS2020 paper
-
-to play with results, either checkout the repos, install jupyter-notebook (see https://jupyter.readthedocs.io/en/latest/install.html) and run the scripts...
+This is the experiments results and artifacts decribed in the ERTS2020 paper.
+To play with results, either checkout the repos, install jupyter-notebook (see https://jupyter.readthedocs.io/en/latest/install.html) and run the scripts...
 
 OR
 
 go to binder: https://mybinder.org/v2/gh/jdeantoni/ERTS2020_artifacts/master, please wait while loading... Then
 enter one folder, click the .ipynb file.
 
-then, run the three cells and play with the sliders ;)
+then, run the three cells (menu, cells run all) and play with the sliders ;) Note, a sample box is here to speed up loading time of plots. I represented the percent of data to keep. Choose 100% if you want ability to zoom on specific part.
 
 You should obtain plots as below, showing the bus load, bus interferences and the waiting time of the different task for their access to a bus:
 
