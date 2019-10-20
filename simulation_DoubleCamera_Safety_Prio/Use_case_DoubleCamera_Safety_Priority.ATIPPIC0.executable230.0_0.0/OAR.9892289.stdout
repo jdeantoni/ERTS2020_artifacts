@@ -1,0 +1,177 @@
+@0.0ms (0 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@0.0ms (0 clock ticks): SPW_payload_driver STARTS RUNNING!
+@0.0ms (0 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@1.2000000000000002ms (384 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@100.0ms (32000 clock ticks): Satellite Control MON STARTS RUNNING!
+@100.0ms (32000 clock ticks): Satellite Control COM STARTS RUNNING!
+@110.2625ms (35284 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@110.33125000000001ms (35306 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@119.91875ms (38374 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@120.0ms (38400 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@150.0ms (48000 clock ticks): Comparator STARTS RUNNING!
+@151.20000000000002ms (48384 clock ticks): Comparator STOPS RUNNING!
+
+@200.0ms (64000 clock ticks): Supervisor STARTS RUNNING!
+@200.0ms (64000 clock ticks): FFT1 STARTS RUNNING!
+@200.02812500000002ms (64009 clock ticks): Satellite Control MON STARTS RUNNING!
+@200.03125ms (64010 clock ticks): Satellite Control COM STARTS RUNNING!
+@202.471875ms (64791 clock ticks): Supervisor STOPS RUNNING!
+
+@210.55937500000002ms (67379 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@210.6125ms (67396 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@230.0ms (73600 clock ticks): FFT2 STARTS RUNNING!
+@250.0ms (80000 clock ticks): Comparator STARTS RUNNING!
+@251.20000000000002ms (80384 clock ticks): Comparator STOPS RUNNING!
+
+@300.0ms (96000 clock ticks): Supervisor STARTS RUNNING!
+@300.078125ms (96025 clock ticks): Satellite Control COM STARTS RUNNING!
+@300.11875000000003ms (96038 clock ticks): Satellite Control MON STARTS RUNNING!
+@302.22812500000003ms (96713 clock ticks): Supervisor STOPS RUNNING!
+
+@310.45625ms (99346 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@310.47812500000003ms (99353 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@350.0ms (112000 clock ticks): Comparator STARTS RUNNING!
+@351.20000000000005ms (112384 clock ticks): Comparator STOPS RUNNING!
+
+@400.0ms (128000 clock ticks): Supervisor STARTS RUNNING!
+@400.15625ms (128050 clock ticks): Satellite Control COM STARTS RUNNING!
+@400.19687500000003ms (128063 clock ticks): Satellite Control MON STARTS RUNNING!
+@402.20000000000005ms (128704 clock ticks): Supervisor STOPS RUNNING!
+
+@410.475ms (131352 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@410.515625ms (131365 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@450.0ms (144000 clock ticks): Comparator STARTS RUNNING!
+@451.20000000000005ms (144384 clock ticks): Comparator STOPS RUNNING!
+
+@500.0ms (160000 clock ticks): Supervisor STARTS RUNNING!
+@500.21562500000005ms (160069 clock ticks): Satellite Control COM STARTS RUNNING!
+@500.25625ms (160082 clock ticks): Satellite Control MON STARTS RUNNING!
+@502.20000000000005ms (160704 clock ticks): Supervisor STOPS RUNNING!
+
+@510.534375ms (163371 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@510.57500000000005ms (163384 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@550.0ms (176000 clock ticks): Comparator STARTS RUNNING!
+@551.2ms (176384 clock ticks): Comparator STOPS RUNNING!
+
+@565.6ms (180992 clock ticks): FFT1 STOPS RUNNING!
+
+@595.3000000000001ms (190496 clock ticks): FFT2 STOPS RUNNING!
+
+@600.0ms (192000 clock ticks): Supervisor STARTS RUNNING!
+@600.275ms (192088 clock ticks): Satellite Control COM STARTS RUNNING!
+@600.3156250000001ms (192101 clock ticks): Satellite Control MON STARTS RUNNING!
+@602.2ms (192704 clock ticks): Supervisor STOPS RUNNING!
+
+@610.59375ms (195390 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@610.634375ms (195403 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@650.0ms (208000 clock ticks): Comparator STARTS RUNNING!
+@651.2ms (208384 clock ticks): Comparator STOPS RUNNING!
+
+@700.0ms (224000 clock ticks): Supervisor STARTS RUNNING!
+@700.334375ms (224107 clock ticks): Satellite Control COM STARTS RUNNING!
+@700.375ms (224120 clock ticks): Satellite Control MON STARTS RUNNING!
+@702.2ms (224704 clock ticks): Supervisor STOPS RUNNING!
+
+@710.653125ms (227409 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@710.69375ms (227422 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@750.0ms (240000 clock ticks): Comparator STARTS RUNNING!
+@751.2ms (240384 clock ticks): Comparator STOPS RUNNING!
+
+@800.0ms (256000 clock ticks): Supervisor STARTS RUNNING!
+@800.3937500000001ms (256126 clock ticks): Satellite Control COM STARTS RUNNING!
+@800.434375ms (256139 clock ticks): Satellite Control MON STARTS RUNNING!
+@802.2ms (256704 clock ticks): Supervisor STOPS RUNNING!
+
+@810.7125000000001ms (259428 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@810.7531250000001ms (259441 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@850.0ms (272000 clock ticks): Comparator STARTS RUNNING!
+@851.2ms (272384 clock ticks): Comparator STOPS RUNNING!
+
+@900.0ms (288000 clock ticks): Supervisor STARTS RUNNING!
+@900.0ms (288000 clock ticks): I2C_Storage1 STARTS RUNNING!
+@900.453125ms (288145 clock ticks): Satellite Control COM STARTS RUNNING!
+@900.4937500000001ms (288158 clock ticks): Satellite Control MON STARTS RUNNING!
+@902.2ms (288704 clock ticks): Supervisor STOPS RUNNING!
+
+@910.771875ms (291447 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@910.8125ms (291460 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@950.0ms (304000 clock ticks): Comparator STARTS RUNNING!
+@951.2ms (304384 clock ticks): Comparator STOPS RUNNING!
+
+@990.3000000000001ms (316896 clock ticks): I2C_Storage1 STOPS RUNNING!
+
+@1000.0ms (320000 clock ticks): Supervisor STARTS RUNNING!
+@1000.0ms (320000 clock ticks): SPW_Acquisition2 STARTS RUNNING!
+@1000.0ms (320000 clock ticks): SPW_payload_driver STARTS RUNNING!
+@1000.0ms (320000 clock ticks): SPW_Acquisition1 STARTS RUNNING!
+@1000.5125ms (320164 clock ticks): Satellite Control COM STARTS RUNNING!
+@1000.553125ms (320177 clock ticks): Satellite Control MON STARTS RUNNING!
+@1001.296875ms (320415 clock ticks): SPW_payload_driver STOPS RUNNING!
+
+@1002.3000000000001ms (320736 clock ticks): Supervisor STOPS RUNNING!
+
+@1010.8312500000001ms (323466 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@1010.871875ms (323479 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@1050.0ms (336000 clock ticks): Comparator STARTS RUNNING!
+@1051.2ms (336384 clock ticks): Comparator STOPS RUNNING!
+
+@1100.0ms (352000 clock ticks): Supervisor STARTS RUNNING!
+@1100.0ms (352000 clock ticks): I2C_Storage2 STARTS RUNNING!
+@1100.571875ms (352183 clock ticks): Satellite Control COM STARTS RUNNING!
+@1100.6125ms (352196 clock ticks): Satellite Control MON STARTS RUNNING!
+@1102.2ms (352704 clock ticks): Supervisor STOPS RUNNING!
+
+@1110.8656250000001ms (355477 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@1110.9437500000001ms (355502 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@1119.925ms (358376 clock ticks): SPW_Acquisition2 STOPS RUNNING!
+
+@1120.0ms (358400 clock ticks): SPW_Acquisition1 STOPS RUNNING!
+
+@1150.0ms (368000 clock ticks): Comparator STARTS RUNNING!
+@1151.2ms (368384 clock ticks): Comparator STOPS RUNNING!
+
+@1190.3ms (380896 clock ticks): I2C_Storage2 STOPS RUNNING!
+
+@1200.0ms (384000 clock ticks): Supervisor STARTS RUNNING!
+@1200.0ms (384000 clock ticks): FFT1 STARTS RUNNING!
+@1200.634375ms (384203 clock ticks): Satellite Control MON STARTS RUNNING!
+@1200.6375ms (384204 clock ticks): Satellite Control COM STARTS RUNNING!
+@1202.3ms (384736 clock ticks): Supervisor STOPS RUNNING!
+
+@1211.065625ms (387541 clock ticks): Satellite Control MON STOPS RUNNING!
+
+@1211.121875ms (387559 clock ticks): Satellite Control COM STOPS RUNNING!
+
+@1230.0ms (393600 clock ticks): FFT2 STARTS RUNNING!
+
+/**********************
+
+*     simulation ends      *
+
+**********************/
+
